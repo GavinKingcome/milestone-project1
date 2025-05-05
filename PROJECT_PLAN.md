@@ -13,7 +13,7 @@
 
 **Feature title:** Design and create content for hHomepage and 'About' section
 
-As a **visitor**, I want to view information about the park's history and its habitat **so that** I can learn more about its significance and get a feel for the space.
+As a **visitor**, I want to view information about the park's history and its habitat so that I can learn more about its significance and get a feel for the space.
 
 #### Acceptance Criteria
 
@@ -72,4 +72,5 @@ Acceptance Criteria:
 | - [ ] QGIS to download satellite image of park | 6 April  |
 | - [ ] Wire frames                              | 6 April  |
 | - [ ] First steps to Homepage and Nav bar      | 6 April  |
+
 |
