@@ -13,18 +13,20 @@
 
 **Feature title:** Design and create content for hHomepage and 'About' section
 
-As a **visitor**, I want to view information about the park's history and its habitat so that I can learn more about its significance and get a feel for the space.
+As a **visitor,** I want to view information about the park's history and its habitat so that I can learn more about its significance and get a feel for the space.
 
 #### Acceptance Criteria
 
 - [ ] The homepage includes an "About" section with text and images.
 - [ ] The "About" section is accessible from the navigation bar.
+- [ ] Nav bar to include: About, Gallery, Events, Support Us.
 
 #### Tasks
 
 - [ ] Write content for the "About" section.
 - [ ] Design and implement the "About" section in HTML and CSS.
-- [ ] Add images to the "About" section.
+- [ ] Add images to the "About" and "Gallery" section.
+- [ ] Incorporate a favicon.
 
 ---
 
@@ -73,4 +75,4 @@ Acceptance Criteria:
 | - [ ] Wire frames                              | 6 April  |
 | - [ ] First steps to Homepage and Nav bar      | 6 April  |
 
-|
+### Conduct a review at the end
