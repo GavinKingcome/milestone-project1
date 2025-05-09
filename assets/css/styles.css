@@ -1,0 +1,16 @@
+/* filepath: /Users/GK/Documents/vscode-projects/milestone-project1/styles.css */
+body {
+  font-family: "Lato", sans-serif;
+  background-color: #f9f9f9;
+  color: #333;
+}
+
+h1,
+h2,
+h3 {
+  font-family: "Oswald", sans-serif;
+}
+
+p {
+  font-family: "Roboto", sans-serif;
+}
