@@ -11,7 +11,7 @@
 
 ### User Story 1
 
-**Feature title:** Design and create content for hHomepage and 'About' section
+**Feature title:** Design and create content for Homepage (Come and see) and 'About' section
 
 As a **visitor,** I want to view information about the park's history and its habitat so that I can learn more about its significance and get a feel for the space.
 
