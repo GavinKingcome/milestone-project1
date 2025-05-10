@@ -8,7 +8,7 @@ body {
 h1,
 h2,
 h3 {
-  font-family: "Oswald", sans-serif;
+  font-family: "Roboto", sans-serif;
 }
 
 p {
@@ -16,4 +16,10 @@ p {
 }
 html {
   scroll-behavior: smooth;
+}
+.ochre-bg {
+  background-color: rgba(139, 69, 19, 0.6); /* Ochre color with 80% opacity */
+  color: white; /* Ensures text remains white */
+  padding: 1rem; /* Adds padding */
+  border-radius: 0.5rem; /* Adds rounded corners */
 }
