@@ -30,7 +30,7 @@ html {
   padding: 0.75rem 1.5rem; /* Add padding for better appearance */
   border-radius: 0.5rem; /* Rounded corners */
   font-size: 1.25rem; /* Slightly larger font size */
-  text-transform: uppercase; /* Optional: Make text uppercase */
+  text-transform: none; /* Optional: Make text uppercase */
 }
 .text-box h1 {
   font-weight: 700; /* Light weight for a softer look */
@@ -40,12 +40,9 @@ html {
   background-color: rgba(153, 204, 255, 1); /* Fully opaque on hover */
   color: #f9f9f9; /* Slightly lighter text on hover */
 }
-.custom-nav-btn {
-  text-transform: none; /* Keeps the text as written (upper and lower case) */
-}
+
 /* Custom sharp corners for the cards */
 .sharp-corners,
 .sharp-corners * {
   border-radius: 0;
 }
-
