@@ -43,3 +43,9 @@ html {
 .custom-nav-btn {
   text-transform: none; /* Keeps the text as written (upper and lower case) */
 }
+/* Custom sharp corners for the cards */
+.sharp-corners,
+.sharp-corners * {
+  border-radius: 0;
+}
+
