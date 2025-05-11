@@ -8,7 +8,7 @@ body {
 h1,
 h2,
 h3 {
-  font-family: "Roboto", sans-serif;
+  font-family: "Mulish", sans-serif;
 }
 
 p {
@@ -17,9 +17,29 @@ p {
 html {
   scroll-behavior: smooth;
 }
-.ochre-bg {
-  background-color: rgba(139, 69, 19, 0.6); /* Ochre color with 80% opacity */
-  color: white; /* Ensures text remains white */
+.sky-blue {
+  background-color: rgba(153, 204, 255, 0.8); /* Ochre color with 80% opacity */
+  color: rgb(64, 64, 64); /* Ensures text remains white */
   padding: 1rem; /* Adds padding */
   border-radius: 0.5rem; /* Adds rounded corners */
+}
+.custom-nav-btn {
+  background-color: rgba(153, 204, 255, 0.8); /* Ochre color with 80% opacity */
+  color: rgb(64, 64, 64); /* Dark-grey text for contrast */
+  border: none; /* Remove the default border */
+  padding: 0.75rem 1.5rem; /* Add padding for better appearance */
+  border-radius: 0.5rem; /* Rounded corners */
+  font-size: 1.25rem; /* Slightly larger font size */
+  text-transform: uppercase; /* Optional: Make text uppercase */
+}
+.text-box h1 {
+  font-weight: 700; /* Light weight for a softer look */
+}
+
+.custom-nav-btn:hover {
+  background-color: rgba(153, 204, 255, 1); /* Fully opaque on hover */
+  color: #f9f9f9; /* Slightly lighter text on hover */
+}
+.custom-nav-btn {
+  text-transform: none; /* Keeps the text as written (upper and lower case) */
 }
