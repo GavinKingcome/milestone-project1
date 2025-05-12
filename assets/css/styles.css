@@ -16,9 +16,16 @@ p {
 }
 /* Target paragraphs in About section */
 #about p {
-  font-size: 1.2rem; /* Adjust the font size as needed */
+  font-size: 1.5rem; /* Adjust the font size as needed */
   line-height: 1.6; /* Optional: Improves readability */
 }
+/* Contain text width in the paragraphs */
+.about-text-container {
+  max-width: 600px; /* Set the maximum width for the text */
+  margin: 0 auto; /* Center the container horizontally */
+  text-align: center; /* Optional: Align text to the left */
+}
+
 html {
   scroll-behavior: smooth;
 }
