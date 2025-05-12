@@ -27,7 +27,7 @@
   <body>
     <!-- Fullscreen Background -->
     <div
-      class="d-flex flex-column justify-content-center align-items-center vh-100 text-center"
+      class="fullscreen-container d-flex flex-column justify-content-end align-items-center vh-100 text-center"
       style="
         background-image: url('assets/images/view_across_pond.webp');
         background-size: cover;
@@ -36,47 +36,68 @@
       "
     >
       <!-- Text Boxes -->
-      <div class="text-box sky-blue sharp-corners">
+      <div class="text-box off-white sharp-corners">
         <h1 class="display-4">Welcome to Camley Street Natural Park</h1>
       </div>
 
-      <!-- Dropdown Menu -->
-      <div>
-        <div class="dropdown mt-5">
+      <!-- Navbar -->
+      <nav class="navbar navbar-expand-lg navbar-light bg-light fixed-top">
+        <div class="container">
+          <!-- Brand Name -->
+          <a class="navbar-brand" href="#">Camley Street</a>
+
+          <!-- Burger Icon for Mobile -->
           <button
-            class="btn dropdown-toggle custom-nav-btn sharp-corners"
+            class="navbar-toggler"
             type="button"
-            id="dropdownMenuButton"
-            data-bs-toggle="dropdown"
+            data-bs-toggle="collapse"
+            data-bs-target="#navbarNav"
+            aria-controls="navbarNav"
             aria-expanded="false"
+            aria-label="Toggle navigation"
           >
-            Come and See
+            <span class="navbar-toggler-icon"></span>
           </button>
-          <ul class="dropdown-menu" aria-labelledby="dropdownMenuButton">
-            <li>
-              <a class="dropdown-item" href="#come-and-see">Come and See</a>
-            </li>
-            <li><a class="dropdown-item" href="#about">About</a></li>
-            <li><a class="dropdown-item" href="#gallery">Gallery</a></li>
-            <li><a class="dropdown-item" href="#events">Events</a></li>
-            <li><a class="dropdown-item" href="#subscribe">Subscribe</a></li>
-          </ul>
+
+          <!-- Navbar Links -->
+          <div class="collapse navbar-collapse" id="navbarNav">
+            <ul class="navbar-nav ms-auto">
+              <li class="nav-item">
+                <a class="nav-link" href="#about">About</a>
+              </li>
+              <li class="nav-item">
+                <a class="nav-link" href="#gallery">Gallery</a>
+              </li>
+              <li class="nav-item">
+                <a class="nav-link" href="#events">Events</a>
+              </li>
+              <li class="nav-item">
+                <a class="nav-link" href="#subscribe">Subscribe</a>
+              </li>
+            </ul>
+          </div>
         </div>
-      </div>
+      </nav>
     </div>
 
-    <!-- Section -->
-    <div id="come-and-see" class="container py-5">
-      <h2>Come and See</h2>
-      <p>Explore and enjoy this magical setting.</p>
-    </div>
-
-    <div id="about" class="container py-5 bg-light">
-      <h2>About</h2>
+    <!-- Sections -->
+    <div id="about" class="container py-5">
+      <h2 class="text-center">About Camley Street Natural Park</h2>
       <p>
-        Learn more about the history and mission of Camley Street Natural Park.
+        Camley Street Natural Park is a hidden gem in the heart of London. It
+        offers a unique blend of urban wildlife and natural beauty, making it a
+        perfect escape from the hustle and bustle of city life.
       </p>
-    </div>
+      <p>
+        The park features a variety of habitats, including ponds, meadows, and
+        woodlands, providing a home for diverse wildlife. Whether you're looking
+        to relax, explore, or learn about nature, Camley Street has something
+        for everyone.
+      </p>
+      <p>
+        Join us for events, workshops, and guided walks to discover the beauty
+        of nature right in the city. Our friendly staff are here to help you
+        reconnect with the natural world.
 
     <div id="gallery" class="container py-5">
       <h2 class="text-center">Gallery</h2>
