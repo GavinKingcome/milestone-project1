@@ -73,7 +73,6 @@ html {
   background-position: center; /* Explicitly center the background */
   color: white;
 }
-
 /* Adjust background position for mobile screens */
 @media (max-width: 768px) {
   .fullscreen-container {
