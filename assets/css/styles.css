@@ -31,34 +31,25 @@ p {
   margin: 0 auto; /* Center the container horizontally */
   text-align: center; /* Optional: Align text to the left */
 }
+.about-text-container2 {
+  max-width: 600px; /* Set the maximum width for the text */
+  margin: 0 auto; /* Center the container horizontally */
+  text-align: left; /* Optional: Align text to the left */
+  font-size: 1.5rem; /* Adjust the font size as needed */
+  line-height: 1.6; /* Optional: Improves readability */
+}
 
 html {
   scroll-behavior: smooth;
 }
-.off-white {
-  background-color: rgba(
-    255,
-    255,
-    255,
-    1
-  ); /* Sky-blue color with 80% opacity */
-  color: rgb(64, 64, 64); /* Ensures text remains white */
-  padding: 1rem; /* Adds padding */
-  border-radius: 0.5rem; /* Adds rounded corners */
+.text-box {
+  color: #333; /* Dark gray text color for better contrast */
+  padding: 1.5rem;
+  margin: 0 auto;
 }
 
 .text-box h1 {
   font-weight: 700; /* Bolder */
-}
-/* Navbar */
-.navbar {
-  background-color: rgba(
-    255,
-    255,
-    255,
-    1
-  ) !important; /* Light background with slight transparency */
-  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1); /* Subtle shadow for depth */
 }
 
 .navbar-brand {
@@ -90,6 +81,15 @@ html {
   background-size: cover;
   background-position: center; /* Explicitly center the background */
   color: white;
+}
+.btn-green {
+  background-color: #28a745; /* Green background */
+  color: white; /* White text */
+  border: none; /* Remove border */
+}
+
+.btn-green:hover {
+  background-color: #218838; /* Darker green on hover */
 }
 
 /* Adjust background position for mobile screens */

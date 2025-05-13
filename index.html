@@ -36,7 +36,7 @@
       "
     >
       <!-- Text Boxes -->
-      <div class="text-box off-white sharp-corners">
+      <div class="text-box bg-light sharp-corners">
         <h1 class="display-4">Welcome to Camley Street Natural Park</h1>
       </div>
 
@@ -128,7 +128,7 @@
 
     <!-- Gallery Section -->
 
-    <div id="gallery" class="container py-5">
+    <div id="gallery" class="container py-5 bg-light">
       <h2 class="text-center mb-3">Gallery</h2>
 
       <div class="row">
@@ -222,18 +222,84 @@
       </div>
     </div>
 
-    <div id="events" class="container py-5 bg-light">
-      <h2>Events</h2>
-      <p>See what's happening at the park. Join us for upcoming events!</p>
+    <div id="events" class="container py-4 bg-light">
+      <h2 class="text-center mb-3">Events</h2>
+      <!-- Text content -->
+      <div class="about-text-container2">
+      <p><strong>Opening Times (Free Entry)</strong></p>
+      <ul>
+        <li>April - October: 10am - 5.30pm</li>
+        <li>November - March: 10am - 4pm</li>
+        <li>Closed: 24th - 26th December</li>
+      </ul>
+      
+      <p><strong>School Nature Trails</strong></p>
+      <ul>
+        <li>Mondays and Thursdays <strong>(All Year)</strong>: Guided nature trails for Primary School children</li>
+      </ul>
+      <p><strong>All Welcome</strong></p>
+      <ul>
+        <li>Once a week <strong>(All Year)</strong></li>
+        <li>Habitat management</li>
+        <li>Flora & Fauna identification</li>
+      </ul>
+      <p><strong>Volunteering (All Welcome)</strong></p>
+      <ul>
+        <li>Wednesdays & Saturdays <strong>(All year)</strong></li>
+      </ul>
+      <p><strong>Contact Us</strong></p>
+      <ul>
+        <li>12 Camley Street London N1C 4PW</li>
+        <li>Email: enquiries@wildlondon.co.uk</li>
+        <li>Phone: 020 3897 6150</li>
+      </ul>
     </div>
 
     <div id="subscribe" class="container py-5">
-      <h2>Subscribe</h2>
-      <p>
-        Stay updated with our newsletter. Subscribe to get the latest news and
-        events.
-      </p>
-    </div>
+      <h2 class="text-center mb-3">Subscribe</h2>
+
+      <div class="about-text-container2">
+        <p>
+          Stay updated with our newsletter. Subscribe to get the latest news and
+          events.
+       </p>
+
+      <!-- Subscription Form -->
+     <form>
+       <div class="mb-3">
+         <label for="name" class="form-label">Name</label>
+         <input
+          type="text"
+          class="form-control"
+          id="name"
+          placeholder="Enter your name"
+          required
+         />
+       </div>
+       <div class="mb-3">
+         <label for="email" class="form-label">Email</label>
+         <input
+          type="email"
+          class="form-control"
+          id="email"
+          placeholder="Enter your email"
+          required
+         />
+       </div>
+       <div class="mb-3">
+        <label for="phone" class="form-label">Phone</label>
+        <input
+          type="tel"
+          class="form-control"
+          id="phone"
+          placeholder="Enter your phone number"
+         />
+        </div>
+       
+        <button type="submit" class="btn btn-green">Join Us</button>
+     </form>
+   </div>
+ </div>
 
     <!-- Bootstrap JavaScript Bundle with Popper -->
     <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/js/bootstrap.bundle.min.js"></script>
