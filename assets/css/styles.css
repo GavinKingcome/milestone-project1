@@ -92,6 +92,20 @@ html {
   background-color: #218838; /* Darker green on hover */
 }
 
+footer {
+  background-color: #f8f9fa; /* Light gray background */
+  color: #333; /* Dark gray text */
+}
+
+footer .social-icons a {
+  text-decoration: none; /* Remove underline from links */
+  transition: color 0.3s ease; /* Smooth color transition */
+}
+
+footer .social-icons a:hover {
+  color: #28a745; /* Green color on hover */
+}
+
 /* Adjust background position for mobile screens */
 @media (max-width: 768px) {
   .fullscreen-container {
