@@ -2,7 +2,7 @@
 
 ## Goals
 
-- Create a simple, interactive website about the park, describing the importance of greenspace, particularly within urban settings.
+- Create a simple, interactive website about the park, illustrating the importance of greenspace, particularly within urban settings.
 - Include information about its history, habitat, wildlife and events such as volunteering and education.
 - Illustrate with images taken by myself and satellite image to put the park in context of its surroundings.
 - Use Bootstrap and where necessary custom css to style it.
@@ -11,13 +11,13 @@
 
 ### User Story 1
 
-**Feature title:** Design and create content for Homepage (Come and see) and 'About' section
+**Feature title:** Design and create content for main page and 'About' section
 
 As a **visitor,** I want to view information about the park's history and its habitat so that I can learn more about its significance and get a feel for the space.
 
 #### Acceptance Criteria
 
-- [ ] The homepage includes an "About" section with text and images.
+- [X] The navigation includes an "About" section with text and images.
 - [ ] The "About" section is accessible from the navigation bar.
 - [ ] Nav bar to include: About, Gallery, Events, Support Us.
 
@@ -25,7 +25,7 @@ As a **visitor,** I want to view information about the park's history and its ha
 
 - [ ] Write content for the "About" section.
 - [ ] Design and implement the "About" section in HTML and CSS.
-- [ ] Add images to the "About" and "Gallery" section.
+- [ ] Add satellite image to the "About" section and images of park to "Gallery" section.
 - [ ] Incorporate a favicon.
 
 ---
@@ -71,8 +71,8 @@ Acceptance Criteria:
 | Tasks                                          | Deadline |
 | :--------------------------------------------- | :------- |
 | - [x] Visit site to take photos                | 30 April |
-| - [ ] QGIS to download satellite image of park | 6 April  |
-| - [ ] Wire frames                              | 6 April  |
-| - [ ] First steps to Homepage and Nav bar      | 6 April  |
+| - [x] QGIS to download satellite image of park | 6 April  |
+| - [x] Wire frames                              | 6 April  |
+| - [x] First steps to Homepage and Nav bar      | 6 April  |
 
 ### Conduct a review at the end
