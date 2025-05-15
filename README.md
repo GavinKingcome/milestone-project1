@@ -156,3 +156,27 @@ There are various ways this could be achieved such as further optimisation of im
    ```bash
    git clone https://github.com/GavinKingcome/milestone-project1.git
    ```
+2. Navigate to the project directory:
+   ```bash
+   cd milestone-project1
+   ```
+3. Open `index.html` in your browser to view locally.
+
+---
+
+## Deployment
+
+This project was deployed using **GitHub Pages**:
+
+1. Pushed all project files to the GitHub repository:  
+   [https://github.com/GavinKingcome/milestone-project1](https://github.com/GavinKingcome/milestone-project1)
+2. In the repository, went to **Settings** > **Pages**.
+3. Under **Source**, selected the `main` branch and `/ (root)` folder, then clicked **Save**.
+4. After a few moments, GitHub provided a link to the live site:  
+   [https://gavinkingcome.github.io/milestone-project1/](https://gavinkingcome.github.io/milestone-project1/)
+
+Any changes pushed to the repository are automatically deployed to GitHub Pages.
+
+---
+
+

@@ -69,7 +69,9 @@ html {
   color: #1d6d8a; /* Highlight color on hover */
   text-decoration: underline; /* Remove underline */
 }
-
+.navbar .container-fluid {
+  padding-right: 0;
+}
 /* Custom sharp corners for the text boxes and drop-down nav */
 .sharp-corners,
 .sharp-corners * {
