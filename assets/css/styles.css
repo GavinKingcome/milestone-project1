@@ -70,7 +70,7 @@ html {
   text-decoration: underline; /* Remove underline */
 }
 .navbar .container-fluid {
-  padding-right: 0;
+  padding-right: 16;
 }
 /* Custom sharp corners for the text boxes and drop-down nav */
 .sharp-corners,
