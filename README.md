@@ -170,13 +170,13 @@ There are various ways this could be achieved such as further optimisation of im
 ![About Wireframe](assets/images/About-fullscreen.webp)
 
 ### Gallery fullscreen Wireframe
-![Gallery Page Wireframe for Camley Street Natural Park](assets/images/Gallery-fullscreen.webp)
+![Gallery Wireframe for Camley Street Natural Park](assets/images/Gallery-fullscreen.webp)
 
 ### Events fullscreen Wireframe
-![Events Page Wireframe for Camley Street Natural Park](assets/images/Events-fullscreen.webp)
+![Events Wireframe for Camley Street Natural Park](assets/images/Events-fullscreen.webp)
 
 ### Subscribe fullscreen Wireframe
-![Subscribe Page Wireframe for Camley Street Natural Park](assets/images/Subscribe-fullscreen.webp)
+![Subscribe Wireframe for Camley Street Natural Park](assets/images/Subscribe-fullscreen.webp)
 
 
 
