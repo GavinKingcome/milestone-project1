@@ -149,34 +149,34 @@ There are various ways this could be achieved such as further optimisation of im
 ## Wireframes
 
 ### Homepage mobile Wireframe
-![Homepage Wireframe for Camley Street Natural Park](assets/images/wireframes-Homepage-mobile.webp)
+![Homepage Wireframe for Camley Street Natural Park](assets/images/Wireframes-Homepage-mobile.webp)
 
 ### About Page mobile Wireframe
-![About Page Wireframe for Camley Street Natural Park](assets/images/wireframes-About-mobile.webp)
+![About Page Wireframe for Camley Street Natural Park](assets/images/Wireframes-About-mobile.webp)
 
 ### Gallery Page mobile Wireframe
-![Gallery Page Wireframe for Camley Street Natural Park](assets/images/wireframes-Gallery-mobile.webp)
+![Gallery Page Wireframe for Camley Street Natural Park](assets/images/Wireframes-Gallery-mobile.webp)
 
 ### Events Page mobile Wireframe
-![Events Page Wireframe for Camley Street Natural Park](assets/images/wireframes-Events-mobile.webp)
+![Events Page Wireframe for Camley Street Natural Park](assets/images/Wireframes-Events-mobile.webp)
 
 ### Subscribe Page mobile Wireframe
-![Subscribe Page Wireframe for Camley Street Natural Park](assets/images/wireframes-Subscribe-mobile.webp)
+![Subscribe Page Wireframe for Camley Street Natural Park](assets/images/Wireframes-Subscribe-mobile.webp)
 
 ### Homepage fullscreen Wireframe
-![Homepage Wireframe for Camley Street Natural Park](assets/images/wireframes-Homepage-fullscreen.webp)
+![Homepage Wireframe for Camley Street Natural Park](assets/images/Wireframes-Homepage-fullscreen.webp)
 
 ### About fullscreen Wireframe
-![About Wireframe](assets/images/wireframes-About-fullscreen.webp)
+![About Wireframe](assets/images/Wireframes-About-fullscreen.webp)
 
 ### Gallery fullscreen Wireframe
-![Gallery Page Wireframe for Camley Street Natural Park](assets/images/wireframes-Gallery-fullscreen.webp)
+![Gallery Page Wireframe for Camley Street Natural Park](assets/images/Wireframes-Gallery-fullscreen.webp)
 
 ### Events fullscreen Wireframe
-![Events Page Wireframe for Camley Street Natural Park](assets/images/wireframes-Events-fullscreen.webp)
+![Events Page Wireframe for Camley Street Natural Park](assets/images/Wireframes-Events-fullscreen.webp)
 
 ### Subscribe fullscreen Wireframe
-![Subscribe Page Wireframe for Camley Street Natural Park](assets/images/wireframes-Subscribe-fullscreen.webp)
+![Subscribe Page Wireframe for Camley Street Natural Park](assets/images/Wireframes-Subscribe-fullscreen.webp)
 
 
 
