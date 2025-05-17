@@ -146,6 +146,40 @@ There are various ways this could be achieved such as further optimisation of im
 - [Google Fonts](https://fonts.google.com/) for typography.
 - [QGIS](https://qgis.org/) for downloading satellite imagery.
 
+## Wireframes
+
+### Homepage mobile Wireframe
+![Homepage Wireframe for Camley Street Natural Park](assets/images/wireframes-Homepage-mobile.webp)
+
+### About Page mobile Wireframe
+![About Page Wireframe for Camley Street Natural Park](assets/images/wireframes-About-mobile.webp)
+
+### Gallery Page mobile Wireframe
+![Gallery Page Wireframe for Camley Street Natural Park](assets/images/wireframes-Gallery-mobile.webp)
+
+### Events Page mobile Wireframe
+![Events Page Wireframe for Camley Street Natural Park](assets/images/wireframes-Events-mobile.webp)
+
+### Subscribe Page mobile Wireframe
+![Subscribe Page Wireframe for Camley Street Natural Park](assets/images/wireframes-Subscribe-mobile.webp)
+
+### Homepage fullscreen Wireframe
+![Homepage Wireframe for Camley Street Natural Park](assets/images/wireframes-Homepage-fullscreen.webp)
+
+### About fullscreen Wireframe
+![About Wireframe](assets/images/wireframes-About-fullscreen.webp)
+
+### Gallery fullscreen Wireframe
+![Gallery Page Wireframe for Camley Street Natural Park](assets/images/wireframes-Gallery-fullscreen.webp)
+
+### Events fullscreen Wireframe
+![Events Page Wireframe for Camley Street Natural Park](assets/images/wireframes-Events-fullscreen.webp)
+
+### Subscribe fullscreen Wireframe
+![Subscribe Page Wireframe for Camley Street Natural Park](assets/images/wireframes-Subscribe-fullscreen.webp)
+
+
+
 ### Acknowledgements
 
 - Special thanks to Code Institute for providing guidance and inspiration for this project.
