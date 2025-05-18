@@ -1,0 +1,13 @@
+{
+  "folders": [
+	{
+		"path": "../.."
+	},
+	{
+		"path": "../../../About Mei"
+	}
+],
+  "settings": {
+    "liveServer.settings.multiRootWorkspaceName": "milestone-project1"
+  }
+}
