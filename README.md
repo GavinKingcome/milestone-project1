@@ -13,6 +13,7 @@ Welcome to the **Camley Street Natural Park** project! This is a milestone proje
 - [Project Overview](#project-overview)
 - [Features](#features)
 - [Technologies Used](#technologies-used)
+- [Wireframes](#wireframes)
 - [Setup Instructions](#setup-instructions)
 - [Testing](#testing)
 - [Credits](#credits)
